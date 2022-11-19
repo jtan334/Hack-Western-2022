@@ -1,0 +1,125 @@
+/*image container 
+*/
+
+.imagecontainer {
+    width: 700px;
+    height: 600px;
+    background: rgb(224, 224, 224);
+    text-align: center;
+    overflow: auto;
+    scrollbar-width: none;
+    top: 9%;
+    left: 5%;
+    position: absolute;
+}
+
+.full-chat-block {
+    width: 500px;
+    height: 600px;
+    background: white;
+    text-align: center;
+    overflow: auto;
+    scrollbar-width: none;
+    top: 50%;
+    left: 60%;
+    position: absolute;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.outer-container {
+    width: 500px;
+    height: 600px;
+    background: rgb(224, 224, 224);
+    text-align: center;
+    overflow: auto;
+    scrollbar-width: none;
+    bottom: 0%;
+    left: 0%;
+    position: relative;
+    
+}
+
+.chat-container {
+    max-height: 500px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    scroll-behavior: smooth;
+    hyphens: auto;
+}
+
+.chat-bar-input-block {
+    display: flex;
+    float: left;
+    box-sizing: border-box;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    background-color: rgb(67, 65, 78);
+    padding: 10px 0px 10px 10px;
+    position: sticky;
+    bottom: 0;
+}
+
+/* Chat bubbles */
+/* Chat bubbles for User Input */
+#userInput {
+    width: 95%;
+}
+
+.input-box {
+    float: left;
+    border: none;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 14px;
+    color: #7a646f;
+    background-color: white;
+    outline: none
+}
+
+.userText {
+    color: rgb(67, 65, 78);
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: right;
+    clear: both;
+}
+
+.userText span {
+    line-height: 1.5em;
+    display: inline-block;
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    border-bottom-right-radius: 2px;
+    max-width: 80%;
+    margin-right: 10px;
+    margin: 10px;
+}
+
+/* Chat bubbles for Bot Input */
+.botText {
+    color: rgb(67, 65, 78);
+    font-family: Helvetica;
+    font-weight: normal;
+    font-size: 14px;
+    text-align: left;
+}
+
+.botText span {
+    line-height: 1.5em;
+    display: inline-block;
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    border-bottom-left-radius: 2px;
+    max-width: 80%;
+    margin-left: 10px;
+    animation: floatup .5s forwards
+}
