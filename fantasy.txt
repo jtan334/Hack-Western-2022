@@ -1,0 +1,15 @@
+This program generates story.
+
+genre: Fantasy  
+story: You are a warrior of the Noxius Empire, cladded in full chainmail, you carry a steel longsword and a wooden shield. You are on a quest to find the hidden treasure of Ixtal. You've heard it lies in the Forest of Ixtal. You set on the path to find the treasure and walk into a dark forest. As you enter the forest you see a man sitting on a horse, searching for something. He hears you approaching and has a bow and arrow set up. He fires an arrow at you. You deflect the arrow with your shield. You draw your longsword and prepare to battle.
+--  
+genre: Fantasy
+story: You are a ranger living in the Noxius Empire. You have a hunting bow and a quiver of arrows. You have been searching for a mystical beast for 3 months tracking it through the Ixtal forest. As you crouch behind a clump of trees you see the creature. It is a massive creature covered in spikes and spines. You draw your bow and knock an arrow.
+--
+genre: Fantasy
+story: You are a rogue living in the Noxius Empire. You have a long steel dagger and a length of rope. You walk down a path towards an abandoned house in hopes to rob the previous owners. You look around to see how you can enter the house. The window looks promising, as the shed is not too far and the windows seem like it is broken and old.
+--
+genre: Fantasy
+story: You are a wizard living in the Noxius Empire. You have a staff and a spellbook. You finish your long journey and finally arrive at the ruin you've been looking for. You have come here searching for a mystical spellbook of great power called the book of essence. You look around and see the ruins of an ancient temple. The only entrance is a rusted, iron door, which is slightly ajar. You carefully step inside and examine the room. You see nothing but dust and darkness.
+-- 
+genre: Fantasy
