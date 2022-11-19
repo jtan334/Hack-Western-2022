@@ -35,10 +35,10 @@ def main():
     
     #print(prompt)
     
-    storyline = "This program generates a continuation of the story\n"+ "genre: " + storyType + "\n story: " + story + "\n--\n"
-    storyline = "This program generates a continuation of the story\n"+ "genre: " + storyType + "\n story: " + story + "\n--\n"
+    #storyline = "This program generates a continuation of the story\n"+ "genre: " + storyType + "\n story: " + story + "\n--\n"
+    #storyline = "This program generates a continuation of the story\n"+ "genre: " + storyType + "\n story: " + story + "\n--\n"
     
-    storyline = story
+    storyline = story.replace('story:', '').replace('\n', '')
     
     while True:
         action = input("what would you like to do: ")
