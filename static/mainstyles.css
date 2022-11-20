@@ -128,3 +128,27 @@
     margin-top: 580px;
     margin-left: 125px;
 }
+.buttons{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 360px;
+    bottom: 30px;
+    display: flex;
+    justify-content: center;
+    border: none;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    outline: none;
+    transition: 0.5s;
+    outline: none;
+}
+
+.duration {
+margin-top: 600px;
+margin-left: 325px;
+
+}

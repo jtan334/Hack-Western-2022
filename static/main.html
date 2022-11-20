@@ -14,12 +14,7 @@
             <div class="chat-container">
                 <!-- Messages -->
                 <div id="chatbox">
-                    <p id="botStarterMessage" class="botText"><span>hi story stourtos tosirtugoisergjosij sejlkesjrflksjrlgksje rlgkjerlgk jsrlkgj slkrgj lskerj glksrj glskerjglksejr glksejr glkjser lgksj relgkjser kglksejrglksrejlkgjs elrkgjs lerkjg
-                    </span></p>
-                    <div class = "userText"><span>hi erpeltpergoierjgoeirjgoej riogejrogijeroig jeorigjeoigjeorigjeoir gjeoirgjoeirgjereferferferf
-                    </span></div>
-    
-                    <div class = "userText"><span> hi LOL RIP KMS FF GG</span></div>
+                  
     
                 </div>
 
@@ -46,8 +41,20 @@
     <!-- Image Container -->
     <div class = "imagecontainer">
     </div>
-    <div class ="spotify">
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX8kP0ioXjxIA?utm_source=generator" width="40%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>s    </div>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <div class = "buttons">
+            <button onclick="previous_song()" id="pre"><i class="fa fa-step-backward" aria-hidden="true"></i></button>
+            <button onclick="justplay()" id="play"><i class="fa fa-play" aria-hidden="true"></i></button>
+            <button onclick="next_song()" id="next"><i class="fa fa-step-forward" aria-hidden="true"></i></button>
+        </div>
+        <!--- song duration part --->
+        <div class="duration">
+            <input type="range" min="0" max="100" value="0" id="duration_slider" onchange="change_duration()">
+        </div>
+    
+          <!--- Add javascript file --->
+        <script src="music.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="script.js" async defer></script>
 </body>
 
