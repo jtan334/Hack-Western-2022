@@ -14,14 +14,14 @@
 }
 
 .full-chat-block {
-    width: 500px;
-    height: 600px;
+    width: 800px;
+    height: 700px;
     background: white;
     text-align: center;
     overflow: auto;
     scrollbar-width: none;
     top: 50%;
-    left: 60%;
+    left: 40%;
     position: absolute;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -41,7 +41,7 @@
 }
 
 .chat-container {
-    max-height: 500px;
+    max-height: 800px;
     width: 100%;
     position: absolute;
     bottom: 0;
