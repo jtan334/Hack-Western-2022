@@ -45,37 +45,37 @@ function fantasy1(){
 let genre = 'Fantasy'
 console.log(genre)
 clearScreen();
-enterName()
+window.location.href = "main.html";
 };
 function mystery2(){
     let genre = 'Mystery'
     console.log(genre)
     clearScreen();
-    enterName()
-    };
+    window.location.href = "main.html";
+};
     function romance3(){
         let genre = 'Romance'
         console.log(genre)
         clearScreen();
-        enterName()
+        window.location.href = "main.html";
         };
         function comedy4(){
             let genre = 'Comedy'
             console.log(genre)
             clearScreen();
-            enterName()
+            window.location.href = "main.html";
             };
             function historical5(){
                 let genre = 'Historical'
                 console.log(genre)
                 clearScreen();
-                enterName()
+                window.location.href = "main.html";
                 };
                 function fairytale6(){
                     let genre = 'Fairytale'
                     console.log(genre)
                     clearScreen();
-                    enterName()
+                    window.location.href = "main.html";
                     };
 
 
@@ -84,33 +84,21 @@ function clearScreen() {
       document.querySelectorAll(".main").forEach((e) => e.remove());
     }
 }
-function enterName(){
-    
-}
-function createGame(){
 
-    data.forEach((e) => {
-        const item = document.createElement("li");
-        item.className = "results";
-        item.appendChild(
-          document.createTextNode(
-            `${e.name} (Genre ID: ${e.genre_id}) (Parent ID: ${e.parent_id})`
-          )
-        );
-        l.appendChild(item);
-      });
-}
 
 function readInput(){
     let textInput = document.getElementById("input")
 
- displayGenerated(textInput.value);
+ displayGeneratedUser(textInput.value);
+ getResponse(textInput.value);
  textInput.value=''
 }
 
-function displayGenerated(e){
+function displayGeneratedUser(e){
+
     let textArea = document.getElementById("chatbox")
     const item =document.createElement("div");
+    item.className="userText"
     
     const h1 = document.createElement("span");
     
@@ -122,8 +110,38 @@ h1.appendChild(textNode);
             )
     ;
     textArea.appendChild(item)
-   
+    let scroll=document.getElementsByClassName("outer-container")
+    scroll.scrollTop = scroll.scrollHeight; 
 }
+
+function getResponse(){
+    let textInput = document.getElementById("input")
+
+ displayGeneratedAI(textInput.value);
+ textInput.value=''
+}
+
+function displayGeneratedAI(e){
+
+    let textArea = document.getElementById("chatbox")
+    const item =document.createElement("div");
+    item.className="botText"
+    
+    const h1 = document.createElement("span");
+    
+    const textNode = document.createTextNode(`${e}`);
+h1.appendChild(textNode);
+    item.appendChild(
+           h1
+                
+            )
+    ;
+    textArea.appendChild(item)
+    let scroll=document.getElementsByClassName("outer-container")
+    scroll.scrollTop = scroll.scrollHeight; 
+ 
+}
+
 
 
 
