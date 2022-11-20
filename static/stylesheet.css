@@ -62,8 +62,8 @@ p {
 
 .box1 {
     position: absolute;
-    left: 475px;
-    top: 200px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .box1:hover {
     transform: scale(1.05);
@@ -71,8 +71,8 @@ p {
 
 .box2 {
     position: absolute;
-    left: 634px;
-    top: 200px;
+    margin-left: 20%;
+
 }
 
 .box2:hover {
