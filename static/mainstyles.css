@@ -3,7 +3,7 @@
 
 .imagecontainer {
     width: 700px;
-    height: 600px;
+    height: 500px;
     background: rgb(224, 224, 224);
     text-align: center;
     overflow: auto;
@@ -123,4 +123,8 @@
     max-width: 80%;
     margin-left: 10px;
     animation: floatup .5s forwards
+}
+.spotify{
+    margin-top: 580px;
+    margin-left: 125px;
 }
