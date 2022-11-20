@@ -1,0 +1,15 @@
+This program generates a mystery story.
+
+genre: mystery  
+story: You are a detective living in Toronto. You have a pistol and a police badge. You enter the house where you believe the criminal you're searching for is hiding. Suddenly you hear a noise in the backyard. You go to investigate, and see a masked man running.
+--  
+genre: mystery
+story: You are a patient living in Toronto. You have a hospital bracelet and a pack of bandages. You wake up in an old rundown hospital with no memory of how you got there. You take a look around the room and see you are in a padded cell. You try to leave but the door is locked from the outside. You look across your cell and see keys lying on the floor. 
+--
+genre: mystery
+story: You are a spy living in Toronto. You have a concealed pistol and a syringe of poison. You listen to the Russian diplomats and hear them discussing their plans to assassinate the Prime Minister at a hotel. This could be a golden opportunity for you.
+--
+genre: mystery
+story: You are a doctor living in Toronto. A patient is brought to you in a coma. No one knows who he is, just that he collapsed in front of the hospital with a note in his hand and a pendant in his pocket. As you examine him you discover that the note has a string of numbers and letters. The patient seems badly wounded.
+-- 
+genre: mystery

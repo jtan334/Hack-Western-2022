@@ -1,0 +1,15 @@
+This program generates a cyberpunk story.
+
+genre: cyberpunk  
+story: You are a cyborg living in the futuristic Night City. You have a bionic arm and a holoband. You're walking down the dark city streets while neon lights flash brightly above you. As you pass an alley you see a gang of three hoods blocking the way. They are holding some sort of object in their hands.
+--  
+genre: cyberpunk
+story: You are a punk living in the futuristic Night City. You have a small laser knife hidden in your jacket and a holoband on your wrist. You wake up in a dark alley with bruises all over your body. You have no idea what happened. You stand up and see a girl about your age with long blonde hair and green eyes. She is standing over you and her eyes widen in shock. She backs away from you and whispers to you frantically. You can't understand a word she says. 
+--
+genre: cyberpunk
+story: You are a cop living in the futuristic Night City. You have a laser pistol and a stunner. You are part of a police unit tasked with finding government criticizers. You wake up in the morning and hear on the radio that a critical incident has taken place the night before at the house of a gang leader, a man by the name of Azul.
+--
+genre: cyberpunk
+story: You are an android living in the futuristic Night City. You have a laser pistol and a holoband. You are a security android created to provide military level force for corporations wealthy enough to purchase you. As you stand protecting a shipment you realize that something is wrong. The energy readings are off and the ground is shaking. You turn around to see the whole street shaking and see a massive explosion going off nearby.
+-- 
+genre: cyberpunk

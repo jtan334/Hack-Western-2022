@@ -1,4 +1,4 @@
-This program generates story.
+This program generates a fantasy story.
 
 genre: Fantasy  
 story: You are a warrior of the Noxius Empire, cladded in full chainmail, you carry a steel longsword and a wooden shield. You are on a quest to find the hidden treasure of Ixtal. You've heard it lies in the Forest of Ixtal. You set on the path to find the treasure and walk into a dark forest. As you enter the forest you see a man sitting on a horse, searching for something. He hears you approaching and has a bow and arrow set up. He fires an arrow at you. You deflect the arrow with your shield. You draw your longsword and prepare to battle.

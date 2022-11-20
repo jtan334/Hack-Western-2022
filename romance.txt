@@ -1,0 +1,15 @@
+This program generates a romance story.
+
+genre: romance  
+story: You are a Barista living in Toronto. You have a pen and a piece of paper. You start your morning shift working at your local coffee shop. You see the first person walking. You noticed it’s a regular customer that comes here often. You ask for their order.
+--  
+genre: romance
+story: You are a musician living in Toronto. You have a backpack and a phone. You enter your local coffee shop you go to every morning. You take a look around the room and see the same Barista that opens everyday. You go up to order your drink. You look across and hear them say “that will be $5.40”.
+--
+genre: romance
+story: You are a consultant living in Toronto. You have a coat and a bag. You are waiting at a restaurant for your date that you met at the bar last week. You order a glass of wine as you wait. You look across the restaurant and see your date walk in.
+--
+genre: romance
+story: You are a student living in Toronto. You just got to school and your friends greeted you. You open your locker and see a letter with a heart drawn on it. As you examine the letter, you hear your friends mumbling behind you.
+-- 
+genre: romance

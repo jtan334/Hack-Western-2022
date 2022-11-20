@@ -1,0 +1,15 @@
+This program generates a zombies story.
+
+genre: zombies  
+story: You are a survivor trying to survive in a world filled with infected zombies everywhere. You have a pistol and a backpack. You have managed to survive several months avoiding zombies and scavenging food. You cautiously enter a rundown store and hear something stumbling around in the back. You quietly try opening the door to the back room to take it out like a hunter, but it is locked.
+--  
+genre: zombies
+story: You are a soldier trying to survive in a world filled with infected zombies everywhere. You have an automatic rifle and a grenade. Your unit lost a lot of men when the infection broke, but you've managed to keep the small town you're stationed near safe for now. You look over the town and think about how you could keep it safe. Suddenly you hear an explosion on one of the entrances.
+--
+genre: zombies
+story: You are a scientist trying to survive in a world filled with infected zombies everywhere. You have a backpack and a solar-powered tablet. You pound your fist on the table angry that you still haven't found the cure to the infection. You turn to your assistant and yell, "Find the cure, dammit!" As you are finishing your rant, the door to your lab opens and the annoying scientist you've been having daily battles with for the past six months comes in.
+--
+genre: zombies
+story: You are an agent of a special task force trying to survive in a world filled with infected zombies everywhere. You have an automatic rifle and a grenade. Command just moved you to a small city to clear it of zombies. You move with a unit of 6 people and approach the first building.
+-- 
+genre: zombies

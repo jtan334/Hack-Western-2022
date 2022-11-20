@@ -1,0 +1,14 @@
+This program generates a historical story.
+
+genre: historical  
+story: You are a survivor trying to survive in WW2  by scavenging among the ruins of what is left of your city. You have a backpack and a canteen. You haven't eaten in two days so you're desperately searching for food. You enter a rundown building and find a note stuck on the door which reads "Enter if you dare". You enter the building and find an old man sitting in front of a fire.
+--  
+genre: historical
+story: You are a soldier trying to survive WW2. You have an automatic rifle and a grenade. You have lived in this military bunker since the bombs went off. You wake up to the sounds of bomb shells hitting the trenchs. The commanding officer tells you to get reading for battle.
+genre: historical
+story: You are a medic trying to survive  WW2. You have a medkit and a small pistol. The bombshells were dropping all night. You set out in the morning looking for survivors in the city.
+--
+genre: historical
+story: You are a spy for the West stationed in Germany. You have a concealed pistol and a syringe of poison. You listen to the German commanders and hear them discussing their plans to attack. This could be a golden opportunity for you.
+-- 
+genre: historical
