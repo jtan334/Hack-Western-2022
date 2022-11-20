@@ -13,7 +13,7 @@ input.addEventListener("keypress", function(event) {
   
 
   let main = document.getElementById('main');
-
+let genre;
   
 
 
@@ -48,31 +48,31 @@ clearScreen();
 window.location.href = "main.html";
 };
 function mystery2(){
-    let genre = 'Mystery'
+    genre = 'Mystery'
     console.log(genre)
     clearScreen();
     window.location.href = "main.html";
 };
     function romance3(){
-        let genre = 'Romance'
+        genre = 'Romance'
         console.log(genre)
         clearScreen();
         window.location.href = "main.html";
         };
         function comedy4(){
-            let genre = 'Comedy'
+            genre = 'Comedy'
             console.log(genre)
             clearScreen();
             window.location.href = "main.html";
             };
             function historical5(){
-                let genre = 'Historical'
+                genre = 'Historical'
                 console.log(genre)
                 clearScreen();
                 window.location.href = "main.html";
                 };
                 function fairytale6(){
-                    let genre = 'Fairytale'
+                    genre = 'Fairytale'
                     console.log(genre)
                     clearScreen();
                     window.location.href = "main.html";
